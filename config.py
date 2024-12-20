@@ -1,7 +1,6 @@
 ip_version_priority = "ipv6"
 
 source_urls = [
-    "https://api.xn--qoqw77q.top/epg/live.php"，
     "http://117.72.68.25:9230/latest.txt"，
     "http://120.233.84.209:3568/tv.txt"，
     "http://47.120.41.246:8899/zb.txt"，
