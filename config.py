@@ -56,9 +56,9 @@ announcements = [
     {
         "channel": "公告",
         "entries": [
-            {"name": "请阅读", "url": "https://gitee.com/xingpeibin/zb/raw/master/ds.mp4", "logo": "http://175.178.251.183:6689/LR.jpg"},
-            {"name": "XPB主页", "url": "https://gitee.com/xingpeibin/zb/raw/master/ds.mp4", "logo": "http://175.178.251.183:6689/LR.jpg"},
-            {"name": "更新日期", "url": "https://gitee.com/xingpeibin/zb/raw/master/ds.mp4", "logo": "http://175.178.251.183:6689/LR.jpg"},
+            {"name": "请阅读", "url": "https://xpb.mhfs.eu.org/ds.mp4", "logo": "http://175.178.251.183:6689/LR.jpg"},
+            {"name": "XPB主页", "url": "https://xpb.mhfs.eu.org/ds.mp4", "logo": "http://175.178.251.183:6689/LR.jpg"},
+            {"name": "更新日期", "url": "https://xpb.mhfs.eu.org/ds.mp4", "logo": "http://175.178.251.183:6689/LR.jpg"},
             {"name": None, "url": "https://gitee.com/xingpeibin/zb/raw/master/ds.mp4", "logo": "http://175.178.251.183:6689/LR.jpg"}
         ]
     }
